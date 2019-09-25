@@ -4,7 +4,7 @@ The final project for my Internet Programming Class.
 
 We were tasked to develop an application in Django. It includes an area model, location model, measurement model, category model, administrative interface customization, and a view. It was based on a measurements example.
 
-Please read the full [report]() if you are interested in learning more about it.
+Please download and read the full [report](https://github.com/NathanAllerton/Django-Measurements-Application-Final-Project/blob/master/NawalAhmed-FinalProjectReport.docx) if you are interested in learning more about it.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11577850/65629463-65abd700-dfa1-11e9-82d8-3ed2c0a9a1b4.png">
