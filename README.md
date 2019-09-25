@@ -1,6 +1,6 @@
 # Django Measurements Application Final Project
 
-The final project for my Internet Programming Class.
+The final project for my [Internet Programming Class](https://github.com/NathanAllerton/Internet-Programming-Class).
 
 We were tasked to develop an application in Django. It includes an area model, location model, measurement model, category model, administrative interface customization, and a view. It was based on a measurements example.
 
